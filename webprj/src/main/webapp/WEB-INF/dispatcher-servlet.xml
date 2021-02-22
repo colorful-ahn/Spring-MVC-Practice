@@ -8,6 +8,11 @@
     <bean id="/index" class="webprj.IndexController">  
         <!-- collaborators and configuration for this bean go here -->
     </bean>
+    
+    <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+    	<property name="prefix" value="/WEB-INF/view/"></property>
+    	<property name="suffix" value=".jsp"></property>
+    </bean>
 
  
 
