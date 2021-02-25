@@ -1001,3 +1001,81 @@ Contains: Resource is out of sync with the file system: '/webprj/src/main/webapp
 
 !ENTRY org.eclipse.lsp4e 1 0 2021-02-24 13:48:59.700
 !MESSAGE [Info]	Angular language server process ID: 74531
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:52:53.066
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:52:53.068
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:53:16.463
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:53:16.465
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:53:32.684
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:53:32.685
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-02-24 13:53:46.450
+!MESSAGE [Info]	Using @angular/language-service v10.2.2 from /Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/@angular/language-service/bundles/language-service.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-02-24 13:53:46.450
+!MESSAGE [Info]	Using typescript/lib/tsserverlibrary v4.0.5 from /Applications/SpringToolSuite4.app/Contents/Eclipse/plugins/org.eclipse.wildwebdeveloper_0.5.13.202012011111/node_modules/typescript/lib/tsserverlibrary.js
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-02-24 13:53:46.451
+!MESSAGE [Info]	Log file: undefined
+
+!ENTRY org.eclipse.lsp4e 1 0 2021-02-24 13:53:46.451
+!MESSAGE [Info]	Angular language server process ID: 75400
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-24 13:53:47.353
+!MESSAGE [Error]	No config file for /Users/kyungrokan/STS/webprj/src/main/webapp/static/notice/list.html
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:54:08.735
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:54:08.737
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-02-24 13:54:11.376
+!MESSAGE [Error]	No config file for /Users/kyungrokan/STS/webprj/src/main/webapp/static/notice/detail.html
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:54:21.581
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:54:21.582
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:55:25.533
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:55:25.536
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:55:48.746
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:55:48.747
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:57:52.318
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:57:52.321
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:59:25.336
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 13:59:25.339
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 14:18:25.708
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2021-02-24 14:18:25.710
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!

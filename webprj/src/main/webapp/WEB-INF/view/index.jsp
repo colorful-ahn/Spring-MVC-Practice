@@ -145,6 +145,9 @@
             </section>
             <section class="notice">
                 <h1 class="title">공지사항</h1>
+                <button>
+                	
+                </button>
                 <ul class="list margin-top">
 
                     <li>
