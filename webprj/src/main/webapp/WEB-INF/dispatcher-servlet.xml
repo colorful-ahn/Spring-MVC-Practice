@@ -14,6 +14,9 @@ xmlns:mvc="http://www.springframework.org/schema/mvc"
     <bean id="/notice/list" class="webprj.notice.ListController">  
         <!-- collaborators and configuration for this bean go here -->
     </bean>
+    <bean id="/notice/detail" class="webprj.notice.DetailController">  
+        <!-- collaborators and configuration for this bean go here -->
+    </bean>
     
     <bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">
     	<property name="prefix" value="/WEB-INF/view/"></property>
