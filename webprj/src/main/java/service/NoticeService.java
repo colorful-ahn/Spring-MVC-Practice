@@ -13,9 +13,9 @@ import java.util.List;
 import entity.Notice;
 
 public class NoticeService {
-	private String url = "jdbc:oracle:thin:@localhost:1521/xepdb1";
-	private String uid = "NEWLEC";
-	private String pwd = "11111";
+	private String url = "jdbc:oracle:thin:@localhost:1521/xe";
+	private String uid = "system";
+	private String pwd = "oracle";
 	private String driver = "oracle.jdbc.driver.OracleDriver";
 	
 	public List<Notice> getList(int page, String field, String query) throws ClassNotFoundException, SQLException{
@@ -94,7 +94,7 @@ public class NoticeService {
 		String content = notice.getContent();
 		String files = notice.getFiles();
 		
-		String url = "jdbc:oracle:thin:@localhost:1521/xepdb1";
+		String url = "jdbc:oracle:thin:@localhost:1521/xe";
 		String sql = "INSERT INTO notice (    " + 
 				"    title," + 
 				"    writer_id," + 
@@ -127,7 +127,7 @@ public class NoticeService {
 		String files = notice.getFiles();
 		int id = notice.getId();
 		
-		String url = "jdbc:oracle:thin:@localhost:1521/xepdb1";
+		String url = "jdbc:oracle:thin:@localhost:1521/xe";
 		String sql = "UPDATE NOTICE " + 
 				"SET" + 
 				"    TITLE=?," + 
@@ -155,7 +155,7 @@ public class NoticeService {
 	
 	public int delete(int id) throws ClassNotFoundException, SQLException {
 	
-		String url = "jdbc:oracle:thin:@localhost:1521/xepdb1";
+		String url = "jdbc:oracle:thin:@localhost:1521/xe";
 		String sql = "DELETE NOTICE WHERE ID=?";
 		
 		Class.forName(driver);
