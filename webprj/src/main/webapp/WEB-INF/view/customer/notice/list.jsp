@@ -48,7 +48,7 @@
 					<tr>
 						<td>${n.id}</td>
 						<td class="title indent text-align-left"><a href="detail">${n.title }</a></td>
-						<td>${n.writeId }</td>
+						<td>${n.writerId }</td>
 						<td>
 							${n.regDate }		
 						</td>
