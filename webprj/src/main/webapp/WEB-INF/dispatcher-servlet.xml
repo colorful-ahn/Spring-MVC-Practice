@@ -40,9 +40,16 @@ xmlns:mvc="http://www.springframework.org/schema/mvc"
     <mvc:resources location="/static/" mapping="/**"></mvc:resources>
     
     
-    <bean id = "noticeService" class="service.NoticeService" />
+    <bean id = "noticeService" class="service.NoticeService" >
+    	<property name='dataSource' ref="dataSource"/>
+    </bean>
     
-    
+    <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+    	<property name="driverClassName" value="oracle.jdbc.driver.OracleDriver"/>
+    	<property name="url" value="jdbc:oracle:thin:@localhost:1521/xe"/>
+    	<property name="username" value="system"/>
+    	<property name="password" value="oracle"/>
+    </bean>
     
 
  
